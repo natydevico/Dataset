@@ -1,0 +1,9 @@
+1,Natascia,Romanoff,19810228,Cosenza,5,80.50,2
+2,Mario,Rossi,19610715,Rende,1,65.30,1
+3,Martina,Felice,19820421,Rende,24,420.80,3
+4,Maria,Arnieri,19821021,Cosenza,8,160.70,1
+5,Cinzia,Costa,19820204,Cosenza,5,222.00,1
+6,Paola,Arnone,19820421,Rogliano,24,187.50,2
+7,Francesco,Neri,19501117,Rende,2,17.00,3
+8,Pasquale,Aloe,19820421,Carolei,21,299.90,2
+9,Ben,Aloe,19820421,Carolei,32, 501.11, 3
